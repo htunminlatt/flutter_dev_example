@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726674799836",
+    "project_id": "newauth-7a00a",
+    "storage_bucket": "newauth-7a00a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726674799836:android:9e24f1acb2c0f2d85f0819",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEF9f_YXplFlJ0Kd_YzSchBeTekwG-TuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
